@@ -1,5 +1,5 @@
 # Memory Card Game
-This is a personal project to practice my fundamental of react
+This is a personal project to practice my fundamentals of react
 
 The goal is to click on the character cards only once if you click on the same card twice you loose
 
